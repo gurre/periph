@@ -1,0 +1,1 @@
+# MiCS5524 Smoke Test
